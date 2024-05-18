@@ -1,0 +1,29 @@
+.body{
+    background:rgb(237, 234, 225);
+    border: 4px  solid white;
+}
+*
+{
+    padding: 0;
+    margin: 0;
+
+}
+
+a:hover
+{
+background-color: grey;
+text-decoration: underline;
+}
+.image
+{
+    margin-right: 5px;
+    height: 70px;
+    width:70px;
+    border-radius: 50%;
+}
+#card
+{
+    background: black;
+    color:whitesmoke;
+}
+
